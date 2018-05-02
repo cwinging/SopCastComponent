@@ -164,7 +164,7 @@ mLFLiveView.setSender(mRtmpSender);
 #### 9. 视频特效
 原来的版本只提供了无特效,灰色两种特效，我在这里添加了美颜特效。
 ```
-mLFLiveView.setEffect(mGrayEffect);
+mLFLiveView.setEffect(mBeautyEffect);
 ```
 #### 10. 水印
 在这往视频上添加水印也非常方便，设置水印后预览和输出都会显示相应尺寸的水印。设置水印的大小和位置是居于输出视频的，
